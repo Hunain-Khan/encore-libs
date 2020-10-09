@@ -3,4 +3,4 @@ apply plugin: 'maven-publish'
 group = 'com.github.Hunain-Khan'
 
 configurations.maybeCreate("default")
-artifacts.add("default", file('encore-libs-2.1.7.aar'))
+artifacts.add("default", file('encore-libs-2.1.7-2.2.1.aar'))
